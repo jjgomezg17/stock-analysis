@@ -175,7 +175,7 @@ End Sub
 
 ![2.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
-![1.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/1VBA_Challenge_2018.png)
+![1.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/2VBA_Challenge_2018.png)
 
 ## Summary
 
