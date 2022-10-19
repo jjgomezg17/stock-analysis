@@ -169,11 +169,19 @@ End Sub
 
 #### When we compare the execution times of the old code and the refactored code, it is evident that for both years there is an increase of approximately 0.10 seconds for each case. It can be evidenced in the following images the difference that exists between the running times of both codes. These differences may not be obvious or substantial to us as humans, because we may not realize it because of how fast both codes run. However, for the machine in the case where it has to run millions of actions and maybe several years, the differences between the two codes may begin to differ. Despite this, in our case the refactored code seems to have a delay compared to the original code, but in the case of having many more actions, the same may not happen.
 
+#####Refactored
+
 ![2.2017](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
+
+#####Original
 
 ![1.2017](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/1VBA_Challenge_2017.png)
 
+#####Refactored
+
 ![2.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
+
+#####Original
 
 ![1.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/2VBA_Challenge_2018.png)
 
