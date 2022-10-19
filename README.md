@@ -14,7 +14,9 @@
 
 ##### To demonstrate this graphically, there are images of the performance of these actions for both years.
 
-Imagen 2017 y 2018
+![2017](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/2_2017.png)
+
+![2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/2_2018.png)
 
 ##### The code used to get these stock performance numbers is as follows:
 
@@ -167,7 +169,13 @@ End Sub
 
 #### When we compare the execution times of the old code and the refactored code, it is evident that for both years there is an increase of approximately 0.10 seconds for each case. It can be evidenced in the following images the difference that exists between the running times of both codes. These differences may not be obvious or substantial to us as humans, because we may not realize it because of how fast both codes run. However, for the machine in the case where it has to run millions of actions and maybe several years, the differences between the two codes may begin to differ. Despite this, in our case the refactored code seems to have a delay compared to the original code, but in the case of having many more actions, the same may not happen.
 
-Imagenes corrida origial y refactrizado para ambos años.
+![2.2017](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
+
+![1.2017](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/1VBA_Challenge_2017.png)
+
+![2.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
+
+![1.2018](https://github.com/jjgomezg17/stock-analysis/blob/main/resources/images/1VBA_Challenge_2018.png)
 
 ## Summary
 
